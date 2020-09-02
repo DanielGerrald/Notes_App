@@ -100,5 +100,9 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# Ignore mac DS_Store Files
+.DS_Store
+
+
 # TernJS port file
 .tern-port
